@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Miscellaneous/Nav_Scene/Main_Menu.unity
+    guid: 2ec74ea09c54c2842b227fb292257cea
+  - enabled: 1
+    path: Assets/Miscellaneous/Nav_Scene/Victory.unity
+    guid: 1f120e0fa18f9ea47a6f6bf566937881
+  - enabled: 1
+    path: Assets/Miscellaneous/Nav_Scene/Failure.unity
+    guid: 730cab3e278032b41abdd355ba4d56a4
+  - enabled: 1
+    path: Assets/Scenes/Battle.unity
+    guid: b59ff9f3ec050bb44bf8ea02d796e93a
   m_configObjects: {}

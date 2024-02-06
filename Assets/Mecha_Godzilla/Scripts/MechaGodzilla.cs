@@ -101,7 +101,7 @@ public class MechaGodzilla : MonoBehaviour
         updateHealthBar(health);
         if (health <= 0)
         {
-            //    Navigator.navigateToStatic("Victory");
+            Navigator.navigateToStatic("Victory");
         }
         if (isReactingToHit)
         {

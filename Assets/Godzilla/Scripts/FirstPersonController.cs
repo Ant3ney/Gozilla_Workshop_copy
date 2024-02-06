@@ -337,8 +337,8 @@ namespace StarterAssets
 				health = 0;
 				// Game Over
 				// Load Game Over Scene
-				//SceneManager.LoadScene("GameOverScene"
-				//Navigator.navigateToStatic("Failure");
+				
+				Navigator.navigateToStatic("Failure");
 			}
 			updateHealthUI();
 		}
